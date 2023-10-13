@@ -26,3 +26,10 @@
 ## DAY 04
 
 - [ ]
+
+## DAY 05
+
+- [ ]  Read an image, apply pre-processing techniques (RGB to GRAY to B/w) and store the Binary image in a separate folder.
+- [ ]  Converted Binary Images, must be stored in a CSV file.
+- [ ]  Take the image as input count the total number of foreground pixels and background pixels in the image and print them as output.
+- [ ]  Take the image as input, for example, if the image size is 30 x 30 then subsample the image into smaller matrices like 3 matrices of 10 x 10 and count individual matrices how many foreground pixels are there and store them in separate CSV files.
