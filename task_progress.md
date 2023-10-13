@@ -1,7 +1,7 @@
 ## DAY 01
 
 - [x]  to access different parts of a matrix
-- [ ]  performing different matrix operations (combining matrices, matrix transposition, array multiplication, matrix multiplication, array division)
+- [x]  performing different matrix operations (combining matrices, matrix transposition, array multiplication, matrix multiplication, array division)
 - [x]  convert RGB image to grayscale
 - [ ]  take an image by using a still camera and remove the background of a new image taken without changing the position of the still camera
 
