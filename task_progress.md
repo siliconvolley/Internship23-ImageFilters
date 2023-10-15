@@ -20,12 +20,12 @@
     - [x]  Convert them to grayscale
     - [x]  Convert them to Binary
     - [x]  Image matrix to vector and save them in a CSV
-- [x]  Convert a image of a handwritten string on a paper to black and white
-- [x]  Apply atleast 4 Edge detection methods
 
 ## DAY 04
 
-- [ ]
+- [x]  Convert a image of a handwritten string on a paper to black and white
+- [x]  Apply atleast 4 Edge detection methods
+
 
 ## DAY 05
 
